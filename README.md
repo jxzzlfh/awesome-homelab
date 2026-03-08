@@ -46,7 +46,6 @@
 | [JupyterLab](https://github.com/jupyterlab/jupyterlab)  | ![JupyterLab](https://img.shields.io/github/stars/jupyterlab/jupyterlab?style=flat) ![JupyterLab](https://img.shields.io/github/languages/top/jupyterlab/jupyterlab?style=flat)   |             |
 | [Leon](https://github.com/leon-ai/leon)                 | ![Leon](https://img.shields.io/github/stars/leon-ai/leon?style=flat) ![Leon](https://img.shields.io/github/languages/top/leon-ai/leon?style=flat)                                 |             |
 | [1Backend](https://github.com/1backend/1backend)        | ![1Backend](https://img.shields.io/github/stars/1backend/1backend?style=flat) ![1Backend](https://img.shields.io/github/languages/top/1backend/1backend?style=flat)               |             |
-| [Bifrost by Maxim AI](https://github.com/maximhq/bifrost) | ![Bifrost](https://img.shields.io/github/stars/maximhq/Bifrost?style=flat) ![Bifrost](https://img.shields.io/github/languages/top/maximhq/bifrost?style=flat)                    | Bifrost is a high-performance self hostable LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. |
 
 ### Analytics
 
